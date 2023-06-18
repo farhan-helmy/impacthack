@@ -8,6 +8,9 @@ opencv-python = "*"
 numpy = "*"
 cvlib = "*"
 tensorflow = "*"
+pika = "*"
+boto3 = "*"
+python-ulid = "*"
 
 [dev-packages]
 
